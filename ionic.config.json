@@ -1,0 +1,8 @@
+{
+  "name": "app-bruno",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "2c806e8b"
+}
